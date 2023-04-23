@@ -3,9 +3,9 @@ import {Link} from 'react-router-dom';
 function About() {
   return (
     <div>
-        <h1>Hola about</h1>
+        <h1>Hola about</h1>{/* 
         <Link to="/">Home</Link>
-        <Link to="/Productos">Productos</Link>
+        <Link to="/Productos">Productos</Link> */}
     </div>
   )
 }

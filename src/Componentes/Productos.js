@@ -4,8 +4,8 @@ function Productos() {
   return (
     <div>
         <h1>Hola productos</h1>
-        <Link to="/About">About</Link>
-        <Link to="/">Home</Link>
+      {/*   <Link to="/About">About</Link>
+        <Link to="/">Home</Link> */}
     </div>
   )
 }
